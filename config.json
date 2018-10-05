@@ -1,0 +1,14 @@
+{
+	"token": "NDk3ODA1NjUzMTU1NTEyMzMw.DpkhWg.vaage8oNKpD_nBq-EHblnHFTk_A",
+	"servers": [
+		"466410303123357723"
+	],
+	"roleName": "Rainbow",
+	"colors": 40,
+	"speed": 800,
+	"logging": false,
+	"RoleNameOnStart": "Member",
+	"prefixM": "?",
+	"activity": "Flight Simulator" ,
+	"type": "Playing"
+}
